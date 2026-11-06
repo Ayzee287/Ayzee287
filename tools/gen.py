@@ -12,8 +12,7 @@ THEMES={"dark":dict(bg="#0d1117",fg="#f0f3f6",mut="#9198a1",ramp=["#161b22","#0e
         "light":dict(bg="#f6f8fa",fg="#1f2328",mut="#59636e",ramp=["#e6eaee","#aceebb","#4ac26b","#2da44e","#116329"],bar="#d1d9e0")}
 LC={"C#":"#8b5cf6","PowerShell":"#3b82f6","TypeScript":"#3178c6","HTML":"#e34c26","CSS":"#a855f7","JavaScript":"#f1e05a","Shell":"#4eaa25","Python":"#3776ab","Batchfile":"#c1f12e","Lua":"#000080"}
 F="font-family=\"Segoe UI, Helvetica, Arial, sans-serif\""
-TXT={"":dict(h="{n} contributions in the last year",s="One square per day",l="Languages",ls="by code volume across public repositories",a1="Contributions over the last year",a2="Languages across public repositories"),
-     "-fr":dict(h="{n} contributions sur la dernière année",s="Un carré par jour",l="Langages",ls="par volume de code, dépôts publics",a1="Contributions sur la dernière année",a2="Langages des dépôts publics")}
+TXT={"":dict(h="{n} contributions in the last year",s="One square per day",l="Languages",ls="by code volume across public repositories",a1="Contributions over the last year",a2="Languages across public repositories")}
 def heat(t,x):
     days=[d for w in cal["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
     mx=max(d["contributionCount"] for d in days) or 1
