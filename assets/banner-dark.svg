@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ayzee287 — software, tooling, interfaces">
+  <rect width="1200" height="300" rx="16" fill="#0d1117"/>
+  <g stroke="#21262d" stroke-width="1" opacity="0.55">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M200 0V300M400 0V300M600 0V300M800 0V300M1000 0V300"/>
+  </g>
+  <rect x="72" y="86" width="6" height="128" fill="#f0f3f6"/>
+  <text x="104" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2" fill="#f0f3f6">Ayzee287</text>
+  <text x="106" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#9198a1">Windows tooling · web interfaces · Linux desktop</text>
+  <text x="106" y="232" font-family="Consolas, Menlo, monospace" font-size="18" fill="#9198a1" opacity="0.8">C# · TypeScript · Shell · Python</text>
+</svg>
