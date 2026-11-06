@@ -5,7 +5,7 @@
   <img alt="Ayzee287 — Windows tooling, web interfaces, Linux desktop" src="assets/banner-light.svg" width="100%">
 </picture>
 
-📍 France &nbsp;·&nbsp; 🌐 English · Русский
+📍 France &nbsp;·&nbsp; 🌐 English · [Français](README.fr.md)
 
 </div>
 
